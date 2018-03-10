@@ -1,7 +1,7 @@
 {
   "name": "forest-themes-css",
   "description": "CSS Only distribution of Semantic-UI Forest Themes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "build": "node build/build.js"
   },
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/semantic-ui-forest/forest-themes-css#readme",
   "dependencies": {
-    "semantic-ui": "^2.3.0"
+    "semantic-ui-css": "^2.3.0"
   }
 }
