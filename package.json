@@ -1,7 +1,7 @@
 {
   "name": "forest-themes-css",
   "description": "CSS Only distribution of Semantic-UI Forest Themes",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "scripts": {
     "build": "node build/build.js"
   },
